@@ -1,0 +1,150 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+hr {
+    border: dotted lightgray 6px;
+    border-bottom: none;
+    width: 5%;
+    margin: 70px auto;
+}
+
+a:hover {
+    color: #EAF6F6;
+}
+
+p {
+    line-height: 2;
+}
+
+h1 {
+    color: #03506F;
+    font-size: 562.5%; /* 100% = 16px; */
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+}
+
+h2 {
+    color: #03506F;
+    font-weight: normal;
+    font-size: 2.5rem; /* 1rem = 16px; */
+    font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+.top-container {
+    background-color: #E4F5F9;
+    position: relative;
+    padding-top: 100px;
+}
+
+.top-cloud {
+    width: 10%;
+    position: absolute;
+    top: 20px;
+    right: 100px;
+}
+
+.bottom-cloud {
+    width: 10%;
+    position: absolute;
+    left: 50px;
+
+}
+
+.mountain-picture {
+    width: 50%;
+}
+
+.profile-picture {
+    margin-top: 20px;
+    width: 10%;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto; /* auto left and right sets the webpage to center */
+    text-align: left;
+}
+
+.python-image {
+    width: 25%;
+    float: left;
+}
+
+.html-css-image {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.management-image {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.achievement-pic {
+    width: 10%;
+}
+
+.contact-me-image {
+    width: 30%;
+}
+
+.footer-link {
+    color:  #03506F;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.contact-me {
+    width: 70%;
+    margin: auto;
+}
+
+.bottom-container {
+    background-color: #66BFBF;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.copyright {
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding: 10px;
+}
+
+.intro {
+    width: 70%;
+    margin: auto;
+}
+
+.achievement-row {
+    width: 70%;
+    margin: auto;
+}
+
+.education-achievement {
+    width: 70%;
+    margin: auto; /* auto left and right sets the webpage to center */
+}
+.edu-achievement {
+    line-height: 1;
+}
+
+.professional-achievement {
+    width: 70%;
+    margin: auto;
+}
+
+.prof-achievement {
+    line-height: 1;
+}
